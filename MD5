@@ -1,0 +1,9 @@
+6867c97bf1ae6e3b5f76301b9a9eff7e *COPYING
+3afd997944e61ccb6c38c76ed6b28dd4 *DESCRIPTION
+311d9da1ef06b8d7fc5121bf065efd83 *LICENSE
+df390c53434517b304ac5db487184641 *NAMESPACE
+2c249c56d533f94e07427ef7bb173703 *R/RCrypto.R
+a2a4f3932eecf3c208284c21c12ab7ec *man/CoinMarketCap_All.Rd
+12f50da07bf7544e332e9c3a3c9b6414 *man/CoinMarketCap_Ticker.Rd
+8846dc354aedb27b5f739cd8eb7a4305 *man/CoinMarketCap_Top100.Rd
+c53330fa81cf43b6d23289d3749d2795 *man/currencies_list_CoinMarketCap.Rd
